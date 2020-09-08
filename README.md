@@ -54,4 +54,14 @@ To compute GIPE for your word embeddings:
 - Coreference Resolution: The End-to-end Neural Coreference Resolution model used is from [this repository by Lee et al. 2017](https://github.com/kentonl/e2e-coref/tree/e2e).
 
 # Cite
-todo
+```
+@article{kumar2020nurse,
+  title={Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings},
+  author={Kumar, Vaibhav and Bhotia, Tenzin Singhay and Kumar, Vaibhav and Chakraborty, Tanmoy},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={8},
+  pages={486--503},
+  year={2020},
+  publisher={MIT Press}
+}
+```
